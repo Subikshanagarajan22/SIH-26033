@@ -38,7 +38,8 @@ Benefits:
    - Database: MongoDB or PostgreSQL
    - AI/ML: Python with scikit-learn or Prophet for demand forecasting; Google Maps API or OR-Tools for route optimization
    - Payments: UPI / Razorpay
-OneDrive/Pictures/Screenshots/Screenshot 2026-11-24 201432.png
+<img width="361" height="913" alt="Screenshot 2026-11-24 201432" src="https://github.com/user-attachments/assets/f1fcb58b-24b4-4b96-a2a4-7ea93b16d243" />
+
 
 ## Feasibility and Viability
 
